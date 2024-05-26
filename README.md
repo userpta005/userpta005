@@ -46,6 +46,14 @@
         <img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img alt="" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+      </td>
+      <td align="center">
+        <img alt="" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
+      </td>
+    </tr>
   <tbody>
 </table>
 
