@@ -64,4 +64,4 @@
 
 ## 📬 Entre em Contato
 
-Você pode me encontrar em: 66996156120
+Você pode me encontrar pelo Telegram ou Pelo WhatsApp: 66996156120
