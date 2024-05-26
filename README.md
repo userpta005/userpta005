@@ -2,6 +2,9 @@
 
 🚀 Olá! Sou um desenvolvedor web full stack. Meu foco atual está no desenvolvimento Full-stack, onde utilizo Laravel para o Back-end e Vue.js para o Front-end.
 
+No front-end gosto de trabalhar com padrões orientados a componentização , fazendo a reutilização de código na forma de componentes.
+E no back-end gosto de trabalhar com padrões de camadas de serviço, repositórios etc...
+
 ## 🔧 Tecnologias e Ferramentas
 
 <table>
